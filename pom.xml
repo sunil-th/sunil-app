@@ -64,8 +64,8 @@
 
     <distributionManagement>
         <repository>
-            <id>Nexus-server</id>
-            <url>http://44.204.106.16:8081/repository/sunil-app/</url>
+            <id>maven-snapshots</id>
+            <url>http://44.204.106.16:8081/repository/maven-snapshots/</url>
         </repository>
     </distributionManagement>
 
