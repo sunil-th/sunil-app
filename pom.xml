@@ -65,7 +65,7 @@
     <distributionManagement>
         <repository>
             <id>Nexus-server</id>
-            <url>http://3.83.214.6:8081/repository/sunil-app/</url>
+            <url>http://44.204.106.16:8081/repository/sunil-app/</url>
         </repository>
     </distributionManagement>
 
